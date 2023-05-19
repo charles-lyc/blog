@@ -2,9 +2,9 @@ nav:
   Home: /home/
   About: /about/
   Writing: /archives/
-  Projects: http://github.com/tzvetkov75
+  Projects: https://github.com/charles-lyc
 
-projects_url: http://github.com/tzvetkov75
+projects_url: https://github.com/charles-lyc
 
 customize:
     gravatar:
