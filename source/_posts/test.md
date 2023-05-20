@@ -1,9 +1,6 @@
 ---
 title: test
-date: 2023-05-20 14:14:05
+date: 2023-05-20 14:51:33
 tags:
 ---
-
-![](./logo.jpg)
-![](logo.jpg)
-![](hexo-asset-img/logo.jpg)
+{% asset_img logo.jpg %}
