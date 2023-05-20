@@ -104,3 +104,7 @@ theme: solar
 deploy:
   type: ""
 
+# hexo-renderer-marked
+marked:
+  prependRoot: true
+  postAsset: true
