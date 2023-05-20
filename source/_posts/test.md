@@ -6,3 +6,4 @@ tags:
 
 ![](./logo.jpg)
 ![](logo.jpg)
+![](hexo-asset-img/logo.jpg)
