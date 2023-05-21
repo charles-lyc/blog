@@ -1,8 +1,10 @@
 ---
 title: test
-date: 2023-05-20 18:20:59
+date: 2000-05-20 18:20:59
 tags:
 ---
+
+
 
 {% asset_img logo.jpg st logo %}
 {% asset_link logo.jpg %}
@@ -18,3 +20,6 @@ tags:
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=0&id=8428620650&auto=1&height=430"></iframe>
 
 {% aplayer "Caffeine" "Jeff Williams" "caffeine.mp3" "autoplay" "width:70%" "lrc:caffeine.txt" %}
+
+
+
