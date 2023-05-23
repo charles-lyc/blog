@@ -8,9 +8,11 @@ albums: [
 '''
 
 postfix = '''
-        ["thumbnail_url","gallery/1.gif","img_caption"]
         ]
 ---
+
+{% aplayer "Summer菊次郎的夏天" "久石让,ロンドン交響楽団" "Summer - 久石让,ロンドン交響楽団.mp3" "autoplay" %}
+
 '''
 
 def get_sorted_image_names(folder_path):
@@ -25,9 +27,14 @@ def get_sorted_image_names(folder_path):
 
 folder_path = "images"
 image_names = get_sorted_image_names(folder_path)
-with open("index.md", "w") as f:
+with open("index.md", "w", encoding='utf-8') as f:
     f.write(prefix)
+    count = len(image_names)
     for name in image_names:
-        formatted_string = f'''        ["thumbnail_url","gallery/images/{name}","img_caption"],\n'''
+        count = count - 1
+        if count == 0:
+            formatted_string = f'''        ["gallery/images/{name}","gallery/images/{name}","img_caption"]'''
+        else:            
+            formatted_string = f'''        ["gallery/images/{name}","gallery/images/{name}","img_caption"],\n'''
         f.write(formatted_string)
     f.write(postfix)
