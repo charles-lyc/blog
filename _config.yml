@@ -8,7 +8,7 @@ subtitle: '简单 | 热爱 | 思考'
 description: ''
 keywords:
 author: lychao
-language: zh-CN
+language: default #zh-CN
 timezone: 'Asia/Harbin'
 
 # URL

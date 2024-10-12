@@ -1,9 +1,7 @@
 # Menu
 menu:
-  Home: /
   Archives: /archives
   Gallery: /gallery
-  Tags: /tags
   About: /about
 rss: /atom.xml
 
