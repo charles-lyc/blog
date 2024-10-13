@@ -1,5 +1,5 @@
 ---
-title: Gallery
+title: 相册
 albums: [
         ["gallery/images/IMG_5780.JPEG","gallery/images/IMG_5780.JPEG","img_caption"],
         ["gallery/images/IMG_5805.JPEG","gallery/images/IMG_5805.JPEG","img_caption"],
