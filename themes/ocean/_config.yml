@@ -15,7 +15,7 @@ brand: /favicon.jpg
 ocean:
   overlay: true
   path: /images/ocean/
-  brand: /images/beer-svgrepo-com.svg
+  brand: /images/mona-whisper.gif
 
 # Content
 excerpt_link: Read More...
