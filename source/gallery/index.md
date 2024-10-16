@@ -1,23 +1,26 @@
 ---
 title: Gallery
 albums: [
-        ["gallery/images/IMG_5780.JPEG","gallery/images/IMG_5780.JPEG",IMG_5780],
-        ["gallery/images/IMG_5805.JPEG","gallery/images/IMG_5805.JPEG",IMG_5805],
-        ["gallery/images/IMG_6796.JPEG","gallery/images/IMG_6796.JPEG",IMG_6796],
-        ["gallery/images/IMG_6831.JPEG","gallery/images/IMG_6831.JPEG",IMG_6831],
-        ["gallery/images/IMG_6937.JPEG","gallery/images/IMG_6937.JPEG",IMG_6937],
-        ["gallery/images/IMG_6949.JPEG","gallery/images/IMG_6949.JPEG",IMG_6949],
-        ["gallery/images/IMG_6973.JPEG","gallery/images/IMG_6973.JPEG",IMG_6973],
-        ["gallery/images/IMG_7077.JPEG","gallery/images/IMG_7077.JPEG",IMG_7077],
-        ["gallery/images/IMG_7085.JPEG","gallery/images/IMG_7085.JPEG",IMG_7085],
-        ["gallery/images/IMG_7117.JPEG","gallery/images/IMG_7117.JPEG",IMG_7117],
-        ["gallery/images/IMG_7159.JPEG","gallery/images/IMG_7159.JPEG",IMG_7159],
-        ["gallery/images/IMG_7248.JPEG","gallery/images/IMG_7248.JPEG",IMG_7248],
-        ["gallery/images/IMG_7260.JPEG","gallery/images/IMG_7260.JPEG",IMG_7260],
-        ["gallery/images/IMG_7272.PNG","gallery/images/IMG_7272.PNG",IMG_7272],
-        ["gallery/images/IMG_7328.JPEG","gallery/images/IMG_7328.JPEG",IMG_7328],
-        ["gallery/images/IMG_7521.JPEG","gallery/images/IMG_7521.JPEG",IMG_7521],
-        ["gallery/images/IMG_7582.JPEG","gallery/images/IMG_7582.JPEG",IMG_7582]
+        ["gallery/images/波桑.JPEG","gallery/images/波桑.JPEG",波桑],
+        ["gallery/images/狂阿弥.JPEG","gallery/images/狂阿弥.JPEG",狂阿弥],
+        ["gallery/images/ito老师.JPEG","gallery/images/ito老师.JPEG",ito老师],
+        ["gallery/images/IMG_7521.JPEG","gallery/images/IMG_7521.JPEG",],
+        ["gallery/images/金龙姐姐.JPEG","gallery/images/金龙姐姐.JPEG",金龙姐姐],
+        ["gallery/images/一连体验了两个黑科技（实况照片和隔空投送），开心呢.JPEG","gallery/images/一连体验了两个黑科技（实况照片和隔空投送），开心呢.JPEG",一连体验了两个黑科技（实况照片和隔空投送），开心呢],
+        ["gallery/images/心静自然... 我手呢.JPEG","gallery/images/心静自然... 我手呢.JPEG",心静自然... 我手呢],
+        ["gallery/images/盼君归来.JPEG","gallery/images/盼君归来.JPEG",盼君归来],
+        ["gallery/images/IMG_5805.JPEG","gallery/images/IMG_5805.JPEG",],
+        ["gallery/images/IMG_7260.JPEG","gallery/images/IMG_7260.JPEG",],
+        ["gallery/images/IMG_7159.JPEG","gallery/images/IMG_7159.JPEG",],
+        ["gallery/images/中国人记几的迈阿密.JPEG","gallery/images/中国人记几的迈阿密.JPEG",中国人记几的迈阿密],
+        ["gallery/images/IMG_6973.JPEG","gallery/images/IMG_6973.JPEG",],
+        ["gallery/images/IMG_6937.JPEG","gallery/images/IMG_6937.JPEG",],
+        ["gallery/images/IMG_6831.JPEG","gallery/images/IMG_6831.JPEG",],
+        ["gallery/images/IMG_6796.JPEG","gallery/images/IMG_6796.JPEG",],
+        ["gallery/images/IMG_7077.JPEG","gallery/images/IMG_7077.JPEG",],
+        ["gallery/images/IMG_6949.JPEG","gallery/images/IMG_6949.JPEG",],
+        ["gallery/images/长五F.PNG","gallery/images/长五F.PNG",长五F],
+        ["gallery/images/IMG_7085.JPEG","gallery/images/IMG_7085.JPEG",]
         ]
 ---
 

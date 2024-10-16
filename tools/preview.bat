@@ -11,7 +11,8 @@ if %errorlevel% neq 0 (
     exit /b 1
 )
 
-REM 1.5 复制相册
+REM 1.5 同步相册
+del /Q ".\src\source\gallery\images\*.*"
 xcopy /s /y ".\相册\*" ".\src\source\gallery\images"
 
 REM 检查复制操作是否成功
