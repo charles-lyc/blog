@@ -12,9 +12,12 @@ albums: [
         ["gallery/images/IMG_7085.JPEG","gallery/images/IMG_7085.JPEG",IMG_7085],
         ["gallery/images/IMG_7117.JPEG","gallery/images/IMG_7117.JPEG",IMG_7117],
         ["gallery/images/IMG_7159.JPEG","gallery/images/IMG_7159.JPEG",IMG_7159],
+        ["gallery/images/IMG_7248.JPEG","gallery/images/IMG_7248.JPEG",IMG_7248],
         ["gallery/images/IMG_7260.JPEG","gallery/images/IMG_7260.JPEG",IMG_7260],
         ["gallery/images/IMG_7272.PNG","gallery/images/IMG_7272.PNG",IMG_7272],
-        ["gallery/images/IMG_7328.JPEG","gallery/images/IMG_7328.JPEG",IMG_7328]
+        ["gallery/images/IMG_7328.JPEG","gallery/images/IMG_7328.JPEG",IMG_7328],
+        ["gallery/images/IMG_7521.JPEG","gallery/images/IMG_7521.JPEG",IMG_7521],
+        ["gallery/images/IMG_7582.JPEG","gallery/images/IMG_7582.JPEG",IMG_7582]
         ]
 ---
 

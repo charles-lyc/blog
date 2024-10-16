@@ -1,12 +1,22 @@
 chcp 65001
 
 @echo off
-REM 1. 复制 ./文章 文件夹下的所有内容到 ./git/blog/source/_posts 目录
+
+REM 1. 复制 文章 文件夹下的所有内容到 ./git/blog/source/_posts 目录
 xcopy /s /y ".\文章\*" ".\src\source\_posts"
 
 REM 检查复制操作是否成功
 if %errorlevel% neq 0 (
     echo Error: Failed to copy files from ./文章 to ./src\source\_posts.
+    exit /b 1
+)
+
+REM 1.5 复制相册
+xcopy /s /y ".\相册\*" ".\src\source\gallery\images"
+
+REM 检查复制操作是否成功
+if %errorlevel% neq 0 (
+    echo Error: Failed to copy files from ./相册 to ./src\source\gallery\images.
     exit /b 1
 )
 
